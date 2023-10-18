@@ -78,4 +78,5 @@ contract ERC20Token is IERC20 {
         emit Transfer(sender, recipient, amount);
         return true;
     }
+```
 }
