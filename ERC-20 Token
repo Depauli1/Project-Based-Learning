@@ -79,4 +79,3 @@ contract ERC20Token is IERC20 {
         return true;
     }
 }
-```
